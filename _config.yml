@@ -1,28 +1,28 @@
 # Basic
-title: 潘柏信
-subtitle: 个人站
-description: 欢迎来到我的个人站~
+title: 金希静
+subtitle: 个人博客
+description: 欢迎来到我的个人博客$
 # 头像里面的标题
-avatarTitle: leopardpan
+avatarTitle: jxj9527
 # 头像里面的描述
 avatarDesc: iOS / 机器学习
-url: "http://baixin.io"
+url: "https://jxj9527.github.io"
 
 # Comment
 comment:
-    disqus: leopard
+    disqus: jxj9527
     # gitment: xxx // 需要修改 comments.html中的client_id和client_secret
     # uyan: 2143225  # 有言id,登录有言官网申请
 
 # Social
 social:
-    weibo: 5366874726 
-    github: leopardpan
+    weibo: jinxijing 
+    github: jxj9527
     # zhihu: panpanleopard
     # juejin: xxx
-    jianshu: 2ada30d8d0f7
+    jianshu: 8f3e74b06e75
     # twitter: 
-    mail: leopardpan@icloud.com
+    mail: jxj9527@163.com
 
 
 # 百度统计 
